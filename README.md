@@ -98,6 +98,7 @@ vi app/src/main/resources/application-docker.properties
 修改内容如下
 ``` sh
 favorites.base.path=http://xx.xxx.xx.xx/ 
+forgotpassword.url=http://xx.xxx.xx.xx/newPassword 
 ```
 >地址为部署服务器的地址
 
